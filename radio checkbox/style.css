@@ -1,0 +1,17 @@
+.body {
+    margin: 30px;
+    padding: 30px;
+}
+
+.wrapper{
+    background-color: #808080;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.radio-block {
+    width: 100px;
+    height: 100px;
+}
